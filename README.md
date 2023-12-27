@@ -38,9 +38,6 @@ Contributions to this repository are welcome! If you wish to add new questions, 
 ## Disclaimer
 The questions and solutions provided here are for educational purposes and practice only. They may not cover all possible edge cases or optimal solutions. Use them as a reference to enhance your understanding of DSA concepts.
 
-## License
-The contents of this repository are available under the [MIT License](LICENSE).
-
 ## Acknowledgments
 This repository is made possible by contributors who dedicate their time and effort to compile these resources for the DSA community.
 
